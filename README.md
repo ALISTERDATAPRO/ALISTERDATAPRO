@@ -4,3 +4,10 @@
 I am a Data Analyst focused on transforming raw data into clear, actionable insights that support better business decisions.
 
 I use SQL, Microsoft Excel, Tableau and Power BI to clean, analyse and visualize data, develop KPI reports and build dashboards that communicate business performance clearly.
+---
+
+## 🛠️ Technical Skills
+
+**Data Analysis:** SQL | Excel | Power BI | Tableau
+
+**Analytics:** Data Cleaning | KPI Reporting | Data Visualization | Business Intelligence
