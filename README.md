@@ -10,26 +10,26 @@ I use SQL, Microsoft Excel, Tableau and Power BI to clean, analyse and visualize
 
 ## 🛠️ Technical Skills
 
-**Data Analysis:** SQL | Excel | Power BI | Tableau
+**Data Analysis: ** SQL | Excel | Power BI | Tableau
 
-**Analytics:** Data Cleaning | KPI Reporting | Data Visualization | Business Intelligence
+**Analytics: ** Data Cleaning | KPI Reporting | Data Visualization | Business Intelligence
 
 ---
 
 ## 📊 Featured Projects
 
-### 🛒 Retail Sales SQL Analysis
+### 🛒 [Retail Sales SQL Analysis] (https://github.com/ALISTERDATAPRO/retail-sales-sql-analysis)
 
-**SQL | DataGrip | Power BI**
+**SQL | Data Grip | Power BI**
 
 A retail sales analysis project focused on transforming transactional data into actionable business insights. The analysis uses SQL to explore sales performance, identify trends, evaluate key performance indicators and support data-driven decision-making.
 
-**Key areas:** Data Analysis | KPI Reporting | Business Performance | Data Visualization
+**Key areas: ** Data Analysis | KPI Reporting | Business Performance | Data Visualization
 
-### 📈 Superstore Executive Sales Analysis
+### 📈 [Superstore Executive Sales Analysis](https://github.com/ALISTERDATAPRO/Superstore-executive-sales-analysis)
 
 **Tableau | Data Visualization | KPI Analysis**
 
 An interactive executive dashboard analysing sales performance, profitability, regional trends and key business KPIs. The project transforms raw sales data into an accessible visual dashboard designed to support business performance monitoring and decision-making.
 
-**Key areas:** Sales Analysis | Profitability | Regional Performance | KPI Dashboard | Data Visualization
+**Key areas: ** Sales Analysis | Profitability | Regional Performance | KPI Dashboard | Data Visualization
