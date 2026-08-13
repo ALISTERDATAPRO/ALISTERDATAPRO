@@ -33,3 +33,11 @@ A retail sales analysis project focused on transforming transactional data into 
 An interactive executive dashboard analysing sales performance, profitability, regional trends and key business KPIs. The project transforms raw sales data into an accessible visual dashboard designed to support business performance monitoring and decision-making.
 
 **Key areas:** Sales Analysis | Profitability | Regional Performance | KPI Dashboard | Data Visualization
+
+---
+
+## 🎯 What I'm Building
+
+I am continuously developing practical data analytics projects focused on SQL, Excel, Tableau, Power BI and Business Intelligence.
+
+My focus is on applying data analysis to real-world business problems, improving my analytical skills and building portfolio projects that demonstrate practical business value.
