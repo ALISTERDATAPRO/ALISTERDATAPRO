@@ -38,6 +38,6 @@ An interactive executive dashboard analysing sales performance, profitability, r
 
 ## 🎯 What I'm Building
 
-I am continuously developing practical data analytics projects focused on SQL, Excel, Tableau, Power BI and Business Intelligence.
+I am developing practical data analytics projects focused on SQL, Excel, Tableau, Power BI and Business Intelligence.
 
-My focus is on applying data analysis to real-world business problems, improving my analytical skills and building portfolio projects that demonstrate practical business value.
+My goal is to apply analytical techniques to real-world business problems, communicate insights clearly and demonstrate how data can support better business decisions.
